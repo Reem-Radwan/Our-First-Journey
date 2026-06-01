@@ -578,7 +578,7 @@ export default function App() {
                 <div className="cel-title">Welcome home, Hazem. 🎖️</div>
                 <img src={cakePhoto} alt="Celebration" className="cake-photo" />
                 <button className="cel-next-btn" onClick={() => setNovStep("mission")}>
-                  🎖️ &nbsp; Continue to Final Mission →
+                  🎖️ &nbsp; Continue to Next Mission →
                 </button>
               </div>
             )}
